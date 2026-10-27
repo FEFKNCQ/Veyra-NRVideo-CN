@@ -4,7 +4,7 @@
 >
 > **夸克网盘**：https://pan.quark.cn/s/fec006b57017
 >
-> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/Veyra-NRVideo/releases) 下载。
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/Veyra-NRVideo-CN/releases) 下载。
 
 
 <div align="center">
